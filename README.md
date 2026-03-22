@@ -3,6 +3,16 @@
 
 ---
 
+## About This Project
+
+This was built as a hands-on assignment for the **Google Advanced Data Analytics Certificate** on Coursera.
+The course walks you through real-world data workflows using Python, and this project was part of that curriculum.
+
+If you're taking the same course and want access to the dataset, you can find it through the course materials directly:
+👉 [Google Advanced Data Analytics Certificate — Coursera](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
+
+---
+
 ## What This Is
 
 I grabbed a dataset of 4,688 NYC Yellow Taxi trips from 2017 and dug into it.
@@ -116,8 +126,9 @@ automatidata-taxi-eda/
 └── taxi_dashboard.png           # output visualization
 ```
 
-> The CSV isn't included (too large for GitHub). You can grab the dataset from
-> [Kaggle — NYC TLC Trip Data](https://www.kaggle.com/datasets/new-york-city/nyc-taxi-trip-duration).
+> The CSV isn't included (too large for GitHub). The dataset is provided through the course materials —
+> if you're enrolled, you'll find it there.
+> 👉 [Google Advanced Data Analytics Certificate — Coursera](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
 
 ---
 
